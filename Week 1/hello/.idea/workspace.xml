@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CollidingDisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646335379583</updated>
       <workItem from="1646335382812" duration="38000" />
-      <workItem from="1646335716486" duration="1614000" />
+      <workItem from="1646335716486" duration="3759000" />
     </task>
     <servers />
   </component>
@@ -161,6 +164,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HelloGoodbye.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hello$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1646336957406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
